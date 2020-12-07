@@ -1,1 +1,1 @@
-This is the first directory under starting off introductory concepts to python
+First directory with introductory concepts to Python.
